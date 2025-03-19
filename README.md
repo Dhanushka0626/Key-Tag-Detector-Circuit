@@ -1,5 +1,4 @@
-# Key-Tag-Detector-Circuit
-A sound-activated key tag detector circuit using three 555 Timer ICs.
+🔑 Key Tag Detector Circuit (Using Consecutive Hand Claps)
 
 📋 Project Overview
 
